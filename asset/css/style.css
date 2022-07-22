@@ -7,87 +7,149 @@
 	background-color:#F0F1EC ;
 	margin-top:30px;
 }
+
 .banner{
 	text-align:center;
 	font-size:60px;
 	font-weight:bold;
-	color:#AD1AC0;
+	color:#EF1A3D;
 	margin-top:30px;
-}
-.cover{
-	margin-top:10px;
+	background-color:;
 }
 
 .menu{
-	height:30px;
-	margin-top:10px;
 	/*border-style:solid;*/
 	text-align:center;
-	font-size:23px;
-	background-color:#AD1AC0;
-	
+	margin-top:10px;
+	height:30px;
+	font-size:20px;
+	background-color:#EF1A3D;
+    
 }
 .menu a{
-	
-	font-weight:bold;
+	color:white;
 	text-decoration:none;
-	color:white;
 	display:block;
-	
-	
-}
-.section{
-	height:40px;
-	border-style:solid;
-	margin-top:10px;
-	background-color:#AD1AC0;
-	font-weight:bold;
-	text-align:center;
-	color:white;
-	font-size:22px;
 }
 
-.eproduct{
+.cover{
 	/*border-style:solid;*/
 	margin-top:10px;
-	text-align:center;
-	font-weight:bold;
-	font-size:20px;
-}
-.eproduct p{
-	display:inline;
-	margin-top:10px;
-	color:#CF1C31;
-}
-.eproduct button{
-	background-color:#29C424 ;
-     border:0px;
-font-size:20px;
-margin-top:10px;	 
-}
-
-.products{
-	height:40px;
-	border-style:solid;
-	margin-top:20px;
-	background-color:#AD1AC0;
-	font-weight:bold;
-	text-align:center;
-	color:white;
-	font-size:22px;
-}
-.contact{
-	margin-top:20px;
-	height:300px;
 }
 
 .footer{
-	height:200px;
-	border-style:solid;
-	margin-top:10px;
-	background-color:#AD1AC0;
-	font-weight:bold;
 	text-align:center;
+	background-color:#EF1A3D;
 	color:white;
-	font-size:22px;
+	margin-top:10px;
 }
+
+.section{
+	background-color:#EF1A3D;
+	margin-top:10px;
+	font-size:20px;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}
+ .product{
+	 margin-top:10px;
+ }
+
+
+/*---------------contact page style-------------- */
+.contact{
+	/*border-style:solid;*/
+	height:200px;
+	background-color:grey;
+	margin-top:10px;
+	font-weight:bold;
+	
+}
+
+.contact_heading{
+	/*border-style:solid;*/
+	text-align:center;
+	font-size:25px;
+	margin-bottom:10px;
+	background-color:#EF1A3D;
+	color:white;
+	
+}
+/*product page style*/
+
+.product_header {
+	background-color:#EF1A3D;
+	margin-top:10px;
+	color:white;
+}
+
+.product_header h5{
+	font-weight:bold;
+	font-size:25px;
+	margin-bottom:10px;
+	
+}
+.product_header p{
+	display:inline;
+	background-color:white;
+	color:#EF1A3D;
+	margin-top:10px;
+	font-size:20px;
+	margin-right:10px;
+}
+
+.section{
+	background-color:#EF1A3D;
+	margin-top:10px;
+	font-size:25px;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+
+}
+
+.product p{
+	background-color:#EF1A3D;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	display:inline;
+}
+
+.product button{
+	 background-color:#29C424 ;
+     border:0px;
+     font-size:20px;
+     margin-top:10px;	 
+}
+
+.product h6{
+	/*border-style:solid;*/
+	margin-top:5px;
+	display:;
+	margin-left:10px;
+	color:#44F125;
+	font-size:16px;
+}
+.clothing{
+	
+}
+
+
+ /*birthday gifts*/
+.gift{
+	
+}
+
+/*about us*/
+.about{
+	font-weight:bold;
+	font-size:20px;
+	margin-top:10px;
+}
+
+
+
+
+
